@@ -40,7 +40,6 @@ class Component {
                 onClickListener.invoke()
             }
         }
-
         return dialog
     }
 
