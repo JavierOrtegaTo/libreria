@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1896d3</color>
+    <color name="colorPrimaryDark">#1896d3</color>
+    <color name="colorAccent">#1896d3</color>
+    <color name="CLADarkerGrey">#BEBEBE</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="CLAbg">#FAFAFA</color>
+    <color name="CLALoginbg">#F1F2F2</color>
+    <color name="CLABlue">#0093C9</color>
+    <color name="CLALightBlue">#00B2EF</color>
+    <color name="CLAGrey">#F1F2F2</color>
+    <color name="CLAGrayText">#707070</color>
+    <color name="CLALoginWarning">#FDEFC4</color>
+    <color name="OjoBackground">#E0E0E0</color>
+    <color name="CLALinkColor">#3AA8B0</color>
+    <color name="CLALightGray">#CBCBCB</color>
+    <color name="CLAYellow">#FFCB00</color>
+    <color name="negro">#000000</color>
+    <color name="rojo_error">#E8473E</color>
+    <color name="rojo2">#ff4337</color>
+    <color name="rojo_mas_cafe">#E85118</color>
+    <color name="darkRed">#B21E27</color>
+    <color name="light_gray">#DBDBDB</color>
+    <color name="gris">#F3F3F4</color>
+    <color name="gris2">#979797</color>
+    <color name="transparent">#00000000</color>
+    <color name="medium_gray">#676766</color>
+    <color name="login_underline_editbox">#7c7b7b</color>
+    <color name="login_button">#FFCB00</color>
+    <color name="login_selected_tab_text">#873299</color>
+    <color name="login_unselected_tab_text">#56BAE7</color>
+    <color name="colorAmarillo">#ffab03</color>
+    <color name="colorBlanco">#FFFFFF</color>
+    <color name="texto_menu">#DFE3E5</color>
+    <color name="texto_menu_dark">#94989e</color>
+    <color name="color_divider_item">#EBEBEB</color>
+    <color name="autorizacion">#4F5958</color>
+    <color name="colorAmarilloBotonSolicitarPago">#fabf03</color>
+    <color name="fondo_licencias_cuotas">#f3f3f6</color>
+    <color name="orangeYellow">#FFCB00</color>
+    <color name="coilorNaranja">#ee8632</color>
+    <color name="numeros_monto_cuota">#00bd70</color>
+    <color name="letras_montocuota">#4f5858</color>
+    <color name="letras_azules">#0076a9</color>
+    <color name="naranjaAyuda">#edbf43</color>
+    <color name="azulAyuda">#3699d5</color>
+    <color name="colorazul">#0076FF</color>
+    <color name="colorazul2">#1A96D3</color>
+    <color name="darkBlue">#043788</color>
+    <color name="lightBlue">#0093C9</color>
+    <color name="text_gris_view_disable">#bdbec0</color>
+    <color name="waterGreen">#3AA8B0</color>
+    <color name="verde">#2c9c1b</color>
+    <color name="green">#00AA20</color>
+    <color name="verde_backgroud">#c4e1df</color>
+    <color name="zirconGray">#F1F2F2</color>
+    <color name="darkGray">#707070</color>
+    <color name="list_black_scheduling">#FF4F5858</color>
+    <color name="list_gray_scheduling">#FF93959A</color>
+    <color name="black_light">#111111</color>
+    <color name="login_gray">#727176</color>
+    <color name="login_yellow">#F5BE0B</color>
+    <color name="login_error">#F50B0B</color>
+    <color name="login_warning">#F9BE00</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="CLAGrayButton" />
+    <color name="CLBGrayButton">#EBEDED</color>
+    <color name="CLBColorGrayButton">#656565</color>
+    <color name="textStatusCredit">#2F9AA1</color>
+    <color name="textVerdeCredit">#2F9AA1</color>
+    <color name="backgroundGray">#EEEFEF</color>
+
+    <color name= "color_icon_mis_credito">#89E9B0</color>
+    <color name= "color_icon_licencias_medicas">#FFB5AF</color>
+    <color name= "color_icon_cuenta_ahorro">#90DDCA</color>
+    <color name= "color_icon_mis_beneficios">#EA95F1</color>
+    <color name= "color_icon_convenios">#C3BEDF</color>
+    <color name= "color_icon_certificados">#FFCAA2</color>
+    <color name= "color_icon_asignacion_familiar">#92D5F1</color>
+
+    <color name= "color_icon_agenda_visita">#75CD0A</color>
+    <color name= "color_icon_telemedicina">#00BAFF</color>
+    <color name="color_switch">#6d6e71</color>
+    <color name="color_switch_2">#009cd3</color>
+
+    <color name="blue_title">#326295</color>
+    <color name="gray_line">#DFE3E5</color>
+    <color name="warning_background">#FFECDE</color>
+    <color name="information_background">#DEF4FF</color>
+
+    <color name="black_text">#3E4545</color>
+    <color name="disable_text">#A8B3B7</color>
+    <color name="banner_background">#F6F7F7</color>
+    <color name="banner_bottom_line">#C9D0D3</color>
+
+    <color name="light_blue_text">#6589AF</color>
+    <color name="red_error_text">#DB1C10</color>
+    <color name="red_warning_text">#B34A00</color>
+    <color name="info_color_separator">#B7C8DA</color>
+    <color name="list_color_separator">#C9D0D3</color>
+    <color name="green_text_item">#008744</color>
+    <color name="orange_text_item">#DB5C00</color>
+    <color name="bg_ligth">#FeFeFe</color>
+
+    <color name="blue_text">#00648F</color>
+    <color name="gray_text">#586264</color>
+    <color name="blue_gray">#98B0CA</color>
+    <color name="blue_toolbar">#008EC4</color>
+    <color name="green_menu">#00BD70</color>
+    <color name="background_disabled">#EBEFF4</color>
+    <color name="border_disabled">#B7C8DA</color>
+    <color name="salmon_menu">#FF8880</color>
+    <color name="mint_menu">#52BAA7</color>
+    <color name="yellow_menu">#FFA866</color>
+    <color name="lavender_menu">#C3BEDF</color>
+    <color name="purple_menu">#EA95F1</color>
+    <color name="layout_gray">#D6E0EA</color>
+    <color name="light_blue">#92D5F1</color>
+    <color name="switch_track_unchecked">#B6DCEE</color>
+    <color name="turismo">#FAD271</color>
+    <color name="seguros">#52BAA7</color>
+    <color name="turismo_banner">#DEFFF5</color>
+
+    <color name="background">#993E4545</color>
+    <color name="background_lila_palido">#EFECFF</color>
+    <color name="background_blue_light">#DEF4FF</color>
+
+
+    <color name="G2">#586264</color>
+    <color name="C2">#008EC4</color>
+    <color name="C3">#1896D3</color>
+    <color name="G6">#F6F7F7</color>
+    <color name="C1">#0076A9</color>
+    <color name="X4">#B7C8DA</color>
+    <color name="X1">#326295</color>
+    <color name="G1">#3E4545</color>
+    <color name="G5">#DFE3E5</color>
+    <color name="primary_color_cla">#0076A9</color>
+
+
+</resources>

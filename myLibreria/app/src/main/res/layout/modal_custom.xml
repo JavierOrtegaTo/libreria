@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/dialog_bg_without_padding_radius_20"
+    android:paddingHorizontal="24dp"
+    android:paddingVertical="16dp">
+
+    <TextView
+        android:id="@+id/textoTitulo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/rawsonpro_bold"
+        android:lineSpacingExtra="10dp"
+        android:text="Este es un modal de prueba"
+        android:textColor="@color/negro"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textoMensaje"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/rawsonpro_regular"
+        android:lineSpacingExtra="10dp"
+        android:text="Este modal viene desde una libreria"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="@+id/textoTitulo"
+        app:layout_constraintStart_toStartOf="@+id/textoTitulo"
+        app:layout_constraintTop_toBottomOf="@+id/textoTitulo" />
+
+    <Button
+        android:id="@+id/btnVerMisReservas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/fondo_boton_azul_habilitado"
+        android:fontFamily="@font/rawsonpro_regular"
+        android:text="aceptar"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@+id/textoMensaje"
+        tools:layout_editor_absoluteX="24dp" />
+
+    <Button
+        android:id="@+id/btnCancelar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/shape_radio_24_esquinas_borde_0076a9"
+        android:fontFamily="@font/rawsonpro_regular"
+        android:text="cerrar"
+        android:textAllCaps="false"
+        android:textColor="@color/black_text"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@+id/btnVerMisReservas"
+        tools:layout_editor_absoluteX="24dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
