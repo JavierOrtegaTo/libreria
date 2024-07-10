@@ -16,9 +16,9 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven("https://jitpack.io")
     }
 }
 
-rootProject.name = "myLibreria"
-include(":app")
- 
+rootProject.name = "libreria"
+include(":mylibreria")
